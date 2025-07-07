@@ -267,10 +267,16 @@ export default function App() {
             {" "}
             TryHackMe
           </a>{" "}
-          <br />
+        <br/>
           [🔗]{" "}
-          <a href="https://www.linkedin.com/in/muneeb-raza98/" target="_blank">
+          <a href="https://medium.com/@razamuneeb902" target="_blank">
             Medium
+          </a>
+          {" "}|
+          
+          {" "}
+          <a href="https://github.com/muneebrw/" target="_blank">
+            Github
           </a>
         </p>
       </section>
